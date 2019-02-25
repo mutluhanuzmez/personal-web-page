@@ -1,9 +1,9 @@
 # EEG, Machine Learning and BCI
-Introduci
+### Introduction (expandable) 
 
 In this post, there will be explanations of keywords about the subject which is EEG(electroencephalogram) and BCI(brain-computer interface).
 
-All the keywords will be listed as randomly because I will write the explanations one by one when I saw one in an article.
+All the `unknown terms` will be listed as randomly because I will write the explanations one by one when I saw one in an article.
 
 # Paper Examinations and Summaries
 ##  1- Multi-kernel extreme learning machine for EEG classification in brain-computer interfaces - 2017
@@ -52,5 +52,5 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyNTA0MDkwXX0=
+eyJoaXN0b3J5IjpbMzMyNjE1NDk2XX0=
 -->
