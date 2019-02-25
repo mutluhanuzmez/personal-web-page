@@ -8,8 +8,7 @@ All the `unknown terms` will be listed as randomly because I will write the expl
 # Paper Examinations and Summaries
 ##  1- Multi-kernel extreme learning machine for EEG classification in brain-computer interfaces - 2017
 ### Authors
-
-Yu Zhang, Yu Wang, Guoxu Zhou, Jing Jin, Bei Wang, Xingyu Wang, Andrzej Cichocki
+`Yu Zhang, Yu Wang, Guoxu Zhou, Jing Jin, Bei Wang, Xingyu Wang, Andrzej Cichocki`
 
 ### Motivation and brief overview (from Abstract)
 ### Previous methods (Intro) & their limitations
@@ -52,5 +51,5 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyNjE1NDk2XX0=
+eyJoaXN0b3J5IjpbLTMyMTczOTQyMF19
 -->
