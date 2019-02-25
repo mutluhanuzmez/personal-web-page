@@ -5,9 +5,9 @@ All the keywords will be listed as randomly because I will write the explanation
 
 # Papers
 ##  1- Multi-kernel extreme learning machine for EEG classification in brain-computer interfaces - 2017
-3
+### Authors
 
-[YuZhang][YuWang][GuoxuZhou][JingJin][BeiWang][XingyuWang][AndrzejCichocki]
+Yu Zhang, Yu Wang, Guoxu Zhou, Jing Jin, Bei Wang, Xingyu Wang, Andrzej Cichocki
 
 ### Unknown Terms
 - Sensorimotor(SMR)
@@ -16,6 +16,6 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 - Motor-Imagery(MI) ?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDUwMzc5NCwtNTM0NDk1MTEwLDI1Nz
+eyJoaXN0b3J5IjpbMTgwODg1OTM5MiwtNTM0NDk1MTEwLDI1Nz
 Y1NTczN119
 -->
