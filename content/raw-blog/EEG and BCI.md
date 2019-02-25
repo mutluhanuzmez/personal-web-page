@@ -6,12 +6,14 @@ All the keywords will be listed as randomly because I will write the explanation
 # Papers
 ##  1- Multi-kernel extreme learning machine for EEG classification in brain-computer interfaces - 2017
 [YuZhang][YuWang][GuoxuZhou][JingJin][BeiWang][XingyuWang][AndrzejCichocki]
-### Sensorimotor(SMR)
+
+### Unknown Terms
+- Sensorimotor(SMR)
 The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **rhythm** of synchronized electric brain activity. It appears in spindles in recordings of EEG, MEG, and ECoG over the **sensorimotor**cortex. For most individuals, the frequency of the SMR is in the range of 13 to 15 Hz.
 
-### Motor-Imagery(MI) ?
+- Motor-Imagery(MI) ?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDA0NzE0MTUsLTUzNDQ5NTExMCwyNT
+eyJoaXN0b3J5IjpbLTIwODg5NTg0ODEsLTUzNDQ5NTExMCwyNT
 c2NTU3MzddfQ==
 -->
