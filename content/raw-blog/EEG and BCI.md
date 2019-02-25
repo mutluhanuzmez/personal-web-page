@@ -9,6 +9,10 @@ All the keywords will be listed as randomly because I will write the explanation
 
 Yu Zhang, Yu Wang, Guoxu Zhou, Jing Jin, Bei Wang, Xingyu Wang, Andrzej Cichocki
 
+### Motivation and brief overview (from Abstract)
+### Previous methods (Intro) & their limitations
+###
+
 ### Unknown Terms
 - Sensorimotor(SMR)
 The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **rhythm** of synchronized electric brain activity. It appears in spindles in recordings of EEG, MEG, and ECoG over the **sensorimotor**cortex. For most individuals, the frequency of the SMR is in the range of 13 to 15 Hz.
@@ -16,6 +20,6 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 - Motor-Imagery(MI) ?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODg1OTM5MiwtNTM0NDk1MTEwLDI1Nz
-Y1NTczN119
+eyJoaXN0b3J5IjpbLTE5MTQyNDQ0OTcsLTUzNDQ5NTExMCwyNT
+c2NTU3MzddfQ==
 -->
