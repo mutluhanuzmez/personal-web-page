@@ -12,6 +12,9 @@ Yu Zhang, Yu Wang, Guoxu Zhou, Jing Jin, Bei Wang, Xingyu Wang, Andrzej Cichocki
 ### Motivation and brief overview (from Abstract)
 ### Previous methods (Intro) & their limitations
 ### Proposed Solution
+### Discoveries
+### Discussion/Conclusion (their own limitations & future work)
+### Reflection
 
 ### Unknown Terms
 - Sensorimotor(SMR)
@@ -20,6 +23,6 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 - Motor-Imagery(MI) ?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODU3NDM2MjAsLTE5MTQyNDQ0OTcsLT
-UzNDQ5NTExMCwyNTc2NTU3MzddfQ==
+eyJoaXN0b3J5IjpbLTk3MzIwNzc3MCwtMTkxNDI0NDQ5NywtNT
+M0NDk1MTEwLDI1NzY1NTczN119
 -->
