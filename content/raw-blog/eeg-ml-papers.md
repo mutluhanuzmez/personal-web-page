@@ -83,9 +83,11 @@ Performance analysis divided in  three steps and they are at the below.
 ### Code
 - Code is not shared.
 
-##  3- ...
+##  3- An end-to-end deep learning approach to MI-EEG signal classification for BCIs
 ### Authors
+Hauke Dose , Jakob S. Møller, Helle K. Iversen , Sadasivan Puthusserypada
 ### Motivation and brief overview (from Abstract)
+
 ### Previous methods (Intro) & their limitations
 ### Proposed Solution
 ### Discoveries
@@ -96,10 +98,10 @@ Performance analysis divided in  three steps and they are at the below.
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDQ3Mjk2OSwxNzY3OTQ3Njk2LDEwMz
-gxODU0OTMsMTM0ODk5NTYzOSwtMTkyOTQ4OTU1LC0xNTkzNTU2
-OTU5LC0zOTE3Mjk1MTIsLTE4Mjc0ODM2OTIsMTk0MTg1NjM3Mi
-w0ODk1NTk3NjksLTE0NTMyNjI1ODEsLTkyMDI3NDI5MCwxNjUw
-MDI1OTM0LC0xOTUxNjA4NTI1LC0xNjYxNjAwNDcsLTczMjM3Nz
-UxMSwtMzIxNzM5NDIwXX0=
+eyJoaXN0b3J5IjpbLTE2MjkzMjQ1ODAsMTI4MDQ3Mjk2OSwxNz
+Y3OTQ3Njk2LDEwMzgxODU0OTMsMTM0ODk5NTYzOSwtMTkyOTQ4
+OTU1LC0xNTkzNTU2OTU5LC0zOTE3Mjk1MTIsLTE4Mjc0ODM2OT
+IsMTk0MTg1NjM3Miw0ODk1NTk3NjksLTE0NTMyNjI1ODEsLTky
+MDI3NDI5MCwxNjUwMDI1OTM0LC0xOTUxNjA4NTI1LC0xNjYxNj
+AwNDcsLTczMjM3NzUxMSwtMzIxNzM5NDIwXX0=
 -->
