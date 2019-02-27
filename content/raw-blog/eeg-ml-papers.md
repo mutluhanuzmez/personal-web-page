@@ -23,10 +23,11 @@ All the `unknown terms` will be listed as randomly because I will write the expl
  ### Proposed Solution
   - ELM has recently proven to be comparable or better than support vector machine(SVM) for  pattern matching. 
   - Instead of using a single kernel, ELM with multi kernel has recently arisen. SVM classification preceeded by CSP feature extraction is applied again and ELM also added as an extension layer to optimize the success.
-  - Gaussian kernel and polynomial kernel are exploited to map the original CSP features to different nonlinear feature spaces. The two nonlinear feature provide richer discriminant infor- mation that may be supplementary to each other. Accordingly, by integrating both kernels, using a multi-kernel learning strategy to achieve more robust classification of EEG in MI tasks.
+  - Gaussian kernel and polynomial kernel are exploited to map the original CSP features to different nonlinear feature spaces.Accordingly, by integrating both kernels, using a multi-kernel learning strategy to achieve more robust classification of EEG in MI tasks.
   
  ### Discoveries
- -  Using the multi-kernel extreme learning machine with both integrating gaussian kernel and polynomial kernel
+ -  Using the multi-kernel extreme learning machine with both integrating gaussian kernel and polynomial kernel to take better results. The two nonlinear feature provide richer discriminant information that may be supplementary to each other. 
+ 
  ### Discussion/Conclusion (their own limitations & future work)
  - To take better results from MKEML, between two kernels there must be good balance. 
  - Determining the number of hidden nodes for a specific application. (Time consuming)
@@ -35,10 +36,12 @@ All the `unknown terms` will be listed as randomly because I will write the expl
  - I could not see any limitations in the paper with my current knowlodge.
  ### Datasets (Result)
  http://www.bbci.de/competition/iii/
+ 
  ### Comparison/benchmark methods (Results section)
  - EEG data of each trial were band-pass filtered between 4–40 Hz that covered most ERD features re-lated to MI. Features were then extracted by CSP with parameter M =1.
  - Compared with this algorithms MLP, SVM, GKSVM, PKSVM, ELM, GKELM, PKELM and results are
  ### Code
+ 
  ### Unknown Terms in the Paper
 -  Sensorimotor(SMR)
 The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **rhythm** of synchronized electric brain activity. It appears in spindles in recordings of EEG, MEG, and ECoG over the **sensorimotor**cortex. For most individuals, the frequency of the SMR is in the range of 13 to 15 Hz.
@@ -72,7 +75,7 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQ3NDUwMzAsNDg5NTU5NzY5LC0xND
+eyJoaXN0b3J5IjpbLTE2MjE2ODI2NzksNDg5NTU5NzY5LC0xND
 UzMjYyNTgxLC05MjAyNzQyOTAsMTY1MDAyNTkzNCwtMTk1MTYw
 ODUyNSwtMTY2MTYwMDQ3LC03MzIzNzc1MTEsLTMyMTczOTQyMF
 19
