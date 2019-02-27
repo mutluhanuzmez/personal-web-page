@@ -15,7 +15,7 @@ All the `unknown terms` will be listed as randomly because I will write the expl
  - Proposed Solution: A multi kernel extreme learning machine (ELM)(MKELM) based for motor-imagery electroencephalogram(EEG) classification. 
  
  ### Previous methods (Intro) & their limitations
- - ELM has recently proven to be comparable or better than support vector machine(SVM) for  
+ - ELM has recently proven to be comparable or better than support vector machine(SVM) for  pattern matching.
  - 
  ### Proposed Solution
  ### Discoveries
@@ -57,6 +57,6 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MzE3NTUxMCwtMTY2MTYwMDQ3LC03Mz
-IzNzc1MTEsLTMyMTczOTQyMF19
+eyJoaXN0b3J5IjpbLTE5NTE2MDg1MjUsLTE2NjE2MDA0NywtNz
+MyMzc3NTExLC0zMjE3Mzk0MjBdfQ==
 -->
