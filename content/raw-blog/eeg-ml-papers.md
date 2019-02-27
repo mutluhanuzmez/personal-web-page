@@ -16,7 +16,7 @@ All the `unknown terms` will be listed as randomly because I will write the expl
  
  ### Previous methods (Intro) & their limitations
  - ELM has recently proven to be comparable or better than support vector machine(SVM) for  pattern matching.
- - 
+ - Linear Discriminant Analysis(LDA) works  for pattern classificat good for the
  ### Proposed Solution
  ### Discoveries
  ### Discussion/Conclusion (their own limitations & future work)
@@ -57,6 +57,6 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTE2MDg1MjUsLTE2NjE2MDA0NywtNz
-MyMzc3NTExLC0zMjE3Mzk0MjBdfQ==
+eyJoaXN0b3J5IjpbMTY2MTc3OTU4OSwtMTk1MTYwODUyNSwtMT
+Y2MTYwMDQ3LC03MzIzNzc1MTEsLTMyMTczOTQyMF19
 -->
