@@ -72,7 +72,7 @@ C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 ### Reflection on how to adress the limitations of the paper (my ideas )
  - I could not see any limitations in the paper with my current knowlodge.
 ### Datasets (Result)
-- Dataset was created by themselves and publicly released but I could find it yet. 40 image c
+- Dataset was created by themselves and publicly released but I could find it yet. 40 image classes taken by ImageNet and used for stimulating the brain.
 ### Comparison/benchmark methods (Results section)
 - 
 ### Code
@@ -91,7 +91,7 @@ C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTAwNzc2NDcsMTAzODE4NTQ5MywxMz
+eyJoaXN0b3J5IjpbLTIwODEzOTYxODEsMTAzODE4NTQ5MywxMz
 Q4OTk1NjM5LC0xOTI5NDg5NTUsLTE1OTM1NTY5NTksLTM5MTcy
 OTUxMiwtMTgyNzQ4MzY5MiwxOTQxODU2MzcyLDQ4OTU1OTc2OS
 wtMTQ1MzI2MjU4MSwtOTIwMjc0MjkwLDE2NTAwMjU5MzQsLTE5
