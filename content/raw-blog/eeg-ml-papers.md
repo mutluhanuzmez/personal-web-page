@@ -34,6 +34,7 @@ All the `unknown terms` will be listed as randomly because I will write the expl
  ### Reflection on how to adress the limitations of the paper (my ideas )
  
  ### Datasets (Result)
+ http://www.bbci.de/competition/iii/
  ### Comparison/benchmark methods (Results section)
  ### Code
  ### Unknown Terms in the Paper
@@ -69,8 +70,8 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODk4NDIyMDUsNDg5NTU5NzY5LC0xND
-UzMjYyNTgxLC05MjAyNzQyOTAsMTY1MDAyNTkzNCwtMTk1MTYw
-ODUyNSwtMTY2MTYwMDQ3LC03MzIzNzc1MTEsLTMyMTczOTQyMF
-19
+eyJoaXN0b3J5IjpbMTYwMDk1ODY2LDQ4OTU1OTc2OSwtMTQ1Mz
+I2MjU4MSwtOTIwMjc0MjkwLDE2NTAwMjU5MzQsLTE5NTE2MDg1
+MjUsLTE2NjE2MDA0NywtNzMyMzc3NTExLC0zMjE3Mzk0MjBdfQ
+==
 -->
