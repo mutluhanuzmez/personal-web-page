@@ -65,13 +65,15 @@ C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 - The first computer vision approach driven by brain signals, the first automated classification approach employing visual descriptors extracted directly from human neural processes involved in visual scene analysis.
 
 ### Discoveries
+- 
 ### Discussion/Conclusion (their own limitations & future work)
+- 
 ### Reflection on how to adress the limitations of the paper (my ideas )
 ### Datasets (Result)
 ### Comparison/benchmark methods (Results section)
+- 
 ### Code
--
-### Unknown Terms in the Paper
+- Code does not exist
 
 ##  3- ...
 ### Authors
@@ -86,9 +88,9 @@ C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjk2MzQ0NTYsLTE5Mjk0ODk1NSwtMT
-U5MzU1Njk1OSwtMzkxNzI5NTEyLC0xODI3NDgzNjkyLDE5NDE4
-NTYzNzIsNDg5NTU5NzY5LC0xNDUzMjYyNTgxLC05MjAyNzQyOT
-AsMTY1MDAyNTkzNCwtMTk1MTYwODUyNSwtMTY2MTYwMDQ3LC03
-MzIzNzc1MTEsLTMyMTczOTQyMF19
+eyJoaXN0b3J5IjpbMTM0ODk5NTYzOSwtMTkyOTQ4OTU1LC0xNT
+kzNTU2OTU5LC0zOTE3Mjk1MTIsLTE4Mjc0ODM2OTIsMTk0MTg1
+NjM3Miw0ODk1NTk3NjksLTE0NTMyNjI1ODEsLTkyMDI3NDI5MC
+wxNjUwMDI1OTM0LC0xOTUxNjA4NTI1LC0xNjYxNjAwNDcsLTcz
+MjM3NzUxMSwtMzIxNzM5NDIwXX0=
 -->
