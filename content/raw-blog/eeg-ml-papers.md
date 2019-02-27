@@ -72,7 +72,7 @@ C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 ### Reflection on how to adress the limitations of the paper (my ideas )
  - I could not see any limitations in the paper with my current knowlodge.
 ### Datasets (Result)
-
+- Dataset was created by themselves and publicly released but I could find it yet. 40 image c
 ### Comparison/benchmark methods (Results section)
 - 
 ### Code
@@ -91,10 +91,10 @@ C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAxNDE2ODA3LDEwMzgxODU0OTMsMTM0OD
-k5NTYzOSwtMTkyOTQ4OTU1LC0xNTkzNTU2OTU5LC0zOTE3Mjk1
-MTIsLTE4Mjc0ODM2OTIsMTk0MTg1NjM3Miw0ODk1NTk3NjksLT
-E0NTMyNjI1ODEsLTkyMDI3NDI5MCwxNjUwMDI1OTM0LC0xOTUx
-NjA4NTI1LC0xNjYxNjAwNDcsLTczMjM3NzUxMSwtMzIxNzM5ND
-IwXX0=
+eyJoaXN0b3J5IjpbLTEzMTAwNzc2NDcsMTAzODE4NTQ5MywxMz
+Q4OTk1NjM5LC0xOTI5NDg5NTUsLTE1OTM1NTY5NTksLTM5MTcy
+OTUxMiwtMTgyNzQ4MzY5MiwxOTQxODU2MzcyLDQ4OTU1OTc2OS
+wtMTQ1MzI2MjU4MSwtOTIwMjc0MjkwLDE2NTAwMjU5MzQsLTE5
+NTE2MDg1MjUsLTE2NjE2MDA0NywtNzMyMzc3NTExLC0zMjE3Mz
+k0MjBdfQ==
 -->
