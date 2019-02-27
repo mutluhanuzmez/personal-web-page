@@ -72,7 +72,7 @@ C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 ### Reflection on how to adress the limitations of the paper (my ideas )
  - I could not see any limitations in the paper with my current knowlodge.
 ### Datasets (Result)
-- Dataset was created by themselves and publicly released but I could find it yet. 40 image classes taken by ImageNet and used for stimulating the brain.
+- Dataset was created by themselves and publicly released but I could find it yet. 40 image classes taken by ImageNet and used for stimulating the brain. EEG signals are recorded by device with 128 channel.
 ### Comparison/benchmark methods (Results section)
 - 
 ### Code
@@ -91,10 +91,10 @@ C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODEzOTYxODEsMTAzODE4NTQ5MywxMz
-Q4OTk1NjM5LC0xOTI5NDg5NTUsLTE1OTM1NTY5NTksLTM5MTcy
-OTUxMiwtMTgyNzQ4MzY5MiwxOTQxODU2MzcyLDQ4OTU1OTc2OS
-wtMTQ1MzI2MjU4MSwtOTIwMjc0MjkwLDE2NTAwMjU5MzQsLTE5
-NTE2MDg1MjUsLTE2NjE2MDA0NywtNzMyMzc3NTExLC0zMjE3Mz
-k0MjBdfQ==
+eyJoaXN0b3J5IjpbMTc2Nzk0NzY5NiwxMDM4MTg1NDkzLDEzND
+g5OTU2MzksLTE5Mjk0ODk1NSwtMTU5MzU1Njk1OSwtMzkxNzI5
+NTEyLC0xODI3NDgzNjkyLDE5NDE4NTYzNzIsNDg5NTU5NzY5LC
+0xNDUzMjYyNTgxLC05MjAyNzQyOTAsMTY1MDAyNTkzNCwtMTk1
+MTYwODUyNSwtMTY2MTYwMDQ3LC03MzIzNzc1MTEsLTMyMTczOT
+QyMF19
 -->
