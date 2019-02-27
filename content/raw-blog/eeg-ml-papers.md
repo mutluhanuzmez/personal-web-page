@@ -58,10 +58,11 @@ C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 ### Motivation and brief overview (from Abstract)
 
 ### Previous methods (Intro) & their limitations
+
 ### Proposed Solution
 
 - A deep learning approach to classify EEG data evoked by visual object stimuli outperforming state-of-the-art methods both in the number of tackled object classes and in classification accuracy.
-- The first computer vision approach driven by brain signals,  the first automated classification approach employing visual descriptors extracted directly from human neural processes involved in visual scene analysis.
+- The first computer vision approach driven by brain signals, the first automated classification approach employing visual descriptors extracted directly from human neural processes involved in visual scene analysis.
 
 ### Discoveries
 ### Discussion/Conclusion (their own limitations & future work)
@@ -84,8 +85,9 @@ C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNDczMTksLTM5MTcyOTUxMiwtMTgyNz
-Q4MzY5MiwxOTQxODU2MzcyLDQ4OTU1OTc2OSwtMTQ1MzI2MjU4
-MSwtOTIwMjc0MjkwLDE2NTAwMjU5MzQsLTE5NTE2MDg1MjUsLT
-E2NjE2MDA0NywtNzMyMzc3NTExLC0zMjE3Mzk0MjBdfQ==
+eyJoaXN0b3J5IjpbLTE1OTM1NTY5NTksLTM5MTcyOTUxMiwtMT
+gyNzQ4MzY5MiwxOTQxODU2MzcyLDQ4OTU1OTc2OSwtMTQ1MzI2
+MjU4MSwtOTIwMjc0MjkwLDE2NTAwMjU5MzQsLTE5NTE2MDg1Mj
+UsLTE2NjE2MDA0NywtNzMyMzc3NTExLC0zMjE3Mzk0MjBdfQ==
+
 -->
