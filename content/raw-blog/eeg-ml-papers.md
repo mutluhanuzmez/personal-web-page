@@ -24,6 +24,7 @@ All the `unknown terms` will be listed as randomly because I will write the expl
   - ELM has recently proven to be comparable or better than support vector machine(SVM) for  pattern matching. 
   - Instead of using a single kernel, ELM with multi kernel has recently arisen.
   - Gaussian kernel and polynomial kernel are exploited to map the original CSP features to different nonlinear feature spaces. The two nonlinear feature provide richer discriminant infor- mation that may be supplementary to each other. Accordingly, by integrating both kernels, using a multi-kernel learning strategy to achieve more robust classification of EEG in MI tasks.
+  -  SVM classification preceeded by CSP feature extraction is applied again and ELM also added as an extension layer.
  ### Discoveries
  
  ### Discussion/Conclusion (their own limitations & future work)
@@ -64,7 +65,7 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTMyNjI1ODEsLTkyMDI3NDI5MCwxNj
-UwMDI1OTM0LC0xOTUxNjA4NTI1LC0xNjYxNjAwNDcsLTczMjM3
-NzUxMSwtMzIxNzM5NDIwXX0=
+eyJoaXN0b3J5IjpbLTEzMDcxNDU4MzMsLTE0NTMyNjI1ODEsLT
+kyMDI3NDI5MCwxNjUwMDI1OTM0LC0xOTUxNjA4NTI1LC0xNjYx
+NjAwNDcsLTczMjM3NzUxMSwtMzIxNzM5NDIwXX0=
 -->
