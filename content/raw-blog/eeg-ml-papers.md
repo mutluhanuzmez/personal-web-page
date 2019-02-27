@@ -52,9 +52,11 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 - Extreme Learning Machine?
 - Event-related Desynchronization(ERD)?
 
-##  2- ...
+##  2- Deep Learning Human Mind for Automated Visual Classification
 ### Authors
+C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 ### Motivation and brief overview (from Abstract)
+
 ### Previous methods (Intro) & their limitations
 ### Proposed Solution
 ### Discoveries
@@ -78,8 +80,8 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjc0ODM2OTIsMTk0MTg1NjM3Miw0OD
-k1NTk3NjksLTE0NTMyNjI1ODEsLTkyMDI3NDI5MCwxNjUwMDI1
-OTM0LC0xOTUxNjA4NTI1LC0xNjYxNjAwNDcsLTczMjM3NzUxMS
-wtMzIxNzM5NDIwXX0=
+eyJoaXN0b3J5IjpbLTM5MTcyOTUxMiwtMTgyNzQ4MzY5MiwxOT
+QxODU2MzcyLDQ4OTU1OTc2OSwtMTQ1MzI2MjU4MSwtOTIwMjc0
+MjkwLDE2NTAwMjU5MzQsLTE5NTE2MDg1MjUsLTE2NjE2MDA0Ny
+wtNzMyMzc3NTExLC0zMjE3Mzk0MjBdfQ==
 -->
