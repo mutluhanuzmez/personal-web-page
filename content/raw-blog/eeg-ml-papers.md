@@ -56,7 +56,7 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 ### Authors
 C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 ### Motivation and brief overview (from Abstract)
-- 
+- First EEG data combined with Recurrent Neural Networks (RNN)
 
 ### Previous methods (Intro) & their limitations
 - Previous works are not satisfying for which parts of visual cortex and brain are responsible for such cognitive processes because of the difficulties of cognition-based methods to perform visual tasks.
@@ -86,7 +86,7 @@ C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTQxNTU2NCwtMTU5MzU1Njk1OSwtMz
+eyJoaXN0b3J5IjpbMTgwMDU4Nzg5MywtMTU5MzU1Njk1OSwtMz
 kxNzI5NTEyLC0xODI3NDgzNjkyLDE5NDE4NTYzNzIsNDg5NTU5
 NzY5LC0xNDUzMjYyNTgxLC05MjAyNzQyOTAsMTY1MDAyNTkzNC
 wtMTk1MTYwODUyNSwtMTY2MTYwMDQ3LC03MzIzNzc1MTEsLTMy
