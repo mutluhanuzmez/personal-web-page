@@ -11,8 +11,8 @@ All the `unknown terms` will be listed as randomly because I will write the expl
  Yu Zhang, Yu Wang, Guoxu Zhou, Jing Jin, Bei Wang, Xingyu Wang, Andrzej Cichocki
 
  ### Motivation and brief overview (from Abstract)
- - Goal: Designing a powerful classifier with strong  generalization capability for the development of a motor-imagery based brain-computer interface().
- - Proposed Solution:
+ - Goal: Designing a powerful EEG data classifier with strong  generalization capability for the development of a motor-imagery based brain-computer interface(BCI). 
+ - Proposed Solution: 
  ### Previous methods (Intro) & their limitations
  ### Proposed Solution
  ### Discoveries
@@ -53,6 +53,6 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0NjAyMjA0LC0xNjYxNjAwNDcsLTczMj
-M3NzUxMSwtMzIxNzM5NDIwXX0=
+eyJoaXN0b3J5IjpbLTE3Njg1MDAxODUsLTE2NjE2MDA0NywtNz
+MyMzc3NTExLC0zMjE3Mzk0MjBdfQ==
 -->
