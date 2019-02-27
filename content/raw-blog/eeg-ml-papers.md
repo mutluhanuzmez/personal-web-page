@@ -32,6 +32,7 @@ All the `unknown terms` will be listed as randomly because I will write the expl
  - Determining the number of hidden nodes for a specific application. (Time consuming)
  - Future work: Investigating the finding a better kernel balance parameter.
  ### Reflection on how to adress the limitations of the paper (my ideas )
+ 
  ### Datasets (Result)
  ### Comparison/benchmark methods (Results section)
  ### Code
@@ -68,8 +69,8 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjU4OTYwMSw0ODk1NTk3NjksLTE0NT
-MyNjI1ODEsLTkyMDI3NDI5MCwxNjUwMDI1OTM0LC0xOTUxNjA4
-NTI1LC0xNjYxNjAwNDcsLTczMjM3NzUxMSwtMzIxNzM5NDIwXX
-0=
+eyJoaXN0b3J5IjpbLTE1ODk4NDIyMDUsNDg5NTU5NzY5LC0xND
+UzMjYyNTgxLC05MjAyNzQyOTAsMTY1MDAyNTkzNCwtMTk1MTYw
+ODUyNSwtMTY2MTYwMDQ3LC03MzIzNzc1MTEsLTMyMTczOTQyMF
+19
 -->
