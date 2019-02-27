@@ -67,7 +67,8 @@ C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 ### Discoveries
 - 
 ### Discussion/Conclusion (their own limitations & future work)
-- 
+- Their own limitations are not mentioned clearly.
+- Future work is developing more complex deep learning approaches and
 ### Reflection on how to adress the limitations of the paper (my ideas )
 ### Datasets (Result)
 ### Comparison/benchmark methods (Results section)
@@ -88,9 +89,9 @@ C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODk5NTYzOSwtMTkyOTQ4OTU1LC0xNT
-kzNTU2OTU5LC0zOTE3Mjk1MTIsLTE4Mjc0ODM2OTIsMTk0MTg1
-NjM3Miw0ODk1NTk3NjksLTE0NTMyNjI1ODEsLTkyMDI3NDI5MC
-wxNjUwMDI1OTM0LC0xOTUxNjA4NTI1LC0xNjYxNjAwNDcsLTcz
-MjM3NzUxMSwtMzIxNzM5NDIwXX0=
+eyJoaXN0b3J5IjpbLTEyNzcwNzA5OTYsMTM0ODk5NTYzOSwtMT
+kyOTQ4OTU1LC0xNTkzNTU2OTU5LC0zOTE3Mjk1MTIsLTE4Mjc0
+ODM2OTIsMTk0MTg1NjM3Miw0ODk1NTk3NjksLTE0NTMyNjI1OD
+EsLTkyMDI3NDI5MCwxNjUwMDI1OTM0LC0xOTUxNjA4NTI1LC0x
+NjYxNjAwNDcsLTczMjM3NzUxMSwtMzIxNzM5NDIwXX0=
 -->
