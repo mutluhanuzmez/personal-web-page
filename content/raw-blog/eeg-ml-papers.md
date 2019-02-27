@@ -26,8 +26,9 @@ All the `unknown terms` will be listed as randomly because I will write the expl
   - Gaussian kernel and polynomial kernel are exploited to map the original CSP features to different nonlinear feature spaces. The two nonlinear feature provide richer discriminant infor- mation that may be supplementary to each other. Accordingly, by integrating both kernels, using a multi-kernel learning strategy to achieve more robust classification of EEG in MI tasks.
   
  ### Discoveries
- - 
+ -  
  ### Discussion/Conclusion (their own limitations & future work)
+ - To take better results from MKEML, between two kernels there must be good balance. 
  ### Reflection on how to adress the limitations of the paper (my ideas )
  ### Datasets (Result)
  ### Comparison/benchmark methods (Results section)
@@ -65,7 +66,8 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5NTU5NzY5LC0xNDUzMjYyNTgxLC05Mj
-AyNzQyOTAsMTY1MDAyNTkzNCwtMTk1MTYwODUyNSwtMTY2MTYw
-MDQ3LC03MzIzNzc1MTEsLTMyMTczOTQyMF19
+eyJoaXN0b3J5IjpbLTU5ODY5NjA4MSw0ODk1NTk3NjksLTE0NT
+MyNjI1ODEsLTkyMDI3NDI5MCwxNjUwMDI1OTM0LC0xOTUxNjA4
+NTI1LC0xNjYxNjAwNDcsLTczMjM3NzUxMSwtMzIxNzM5NDIwXX
+0=
 -->
