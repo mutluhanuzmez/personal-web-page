@@ -59,6 +59,7 @@ C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 
 ### Previous methods (Intro) & their limitations
 ### Proposed Solution
+- a deep learning approach to classify EEG data evoked by visual object stimuli outperforming state-of-the-art methods both in the number of tackled object classes and in classification accuracy.
 ### Discoveries
 ### Discussion/Conclusion (their own limitations & future work)
 ### Reflection on how to adress the limitations of the paper (my ideas )
@@ -80,8 +81,8 @@ C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTcyOTUxMiwtMTgyNzQ4MzY5MiwxOT
-QxODU2MzcyLDQ4OTU1OTc2OSwtMTQ1MzI2MjU4MSwtOTIwMjc0
-MjkwLDE2NTAwMjU5MzQsLTE5NTE2MDg1MjUsLTE2NjE2MDA0Ny
-wtNzMyMzc3NTExLC0zMjE3Mzk0MjBdfQ==
+eyJoaXN0b3J5IjpbLTMxNTg5NjE4NiwtMzkxNzI5NTEyLC0xOD
+I3NDgzNjkyLDE5NDE4NTYzNzIsNDg5NTU5NzY5LC0xNDUzMjYy
+NTgxLC05MjAyNzQyOTAsMTY1MDAyNTkzNCwtMTk1MTYwODUyNS
+wtMTY2MTYwMDQ3LC03MzIzNzc1MTEsLTMyMTczOTQyMF19
 -->
