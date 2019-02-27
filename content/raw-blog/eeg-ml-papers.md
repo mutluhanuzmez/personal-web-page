@@ -42,7 +42,7 @@ All the `unknown terms` will be listed as randomly because I will write the expl
  - EEG data of each trial were band-pass filtered between 4–40 Hz that covered most ERD features re-lated to MI. Features were then extracted by CSP with parameter M =1.
  - Compared with this algorithms MLP, SVM, GKSVM, PKSVM, ELM, GKELM, PKELM and accuracy of algorithms showwd in table. **MKELM has the best accuracy among each subject.**
  ### Code
- 
+ Code implementation could not be found though algorithm explained in the paper.
  ### Unknown Terms in the Paper for me
  
 -  Sensorimotor(SMR)
@@ -78,8 +78,8 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTg1NjM3Miw0ODk1NTk3NjksLTE0NT
-MyNjI1ODEsLTkyMDI3NDI5MCwxNjUwMDI1OTM0LC0xOTUxNjA4
-NTI1LC0xNjYxNjAwNDcsLTczMjM3NzUxMSwtMzIxNzM5NDIwXX
-0=
+eyJoaXN0b3J5IjpbLTE4Mjc0ODM2OTIsMTk0MTg1NjM3Miw0OD
+k1NTk3NjksLTE0NTMyNjI1ODEsLTkyMDI3NDI5MCwxNjUwMDI1
+OTM0LC0xOTUxNjA4NTI1LC0xNjYxNjAwNDcsLTczMjM3NzUxMS
+wtMzIxNzM5NDIwXX0=
 -->
