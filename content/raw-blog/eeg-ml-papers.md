@@ -34,12 +34,13 @@ All the `unknown terms` will be listed as randomly because I will write the expl
  - Future work: Investigating the finding a better kernel balance parameter.
  ### Reflection on how to adress the limitations of the paper (my ideas )
  - I could not see any limitations in the paper with my current knowlodge.
+ 
  ### Datasets (Result)
  http://www.bbci.de/competition/iii/
  
  ### Comparison/benchmark methods (Results section)
  - EEG data of each trial were band-pass filtered between 4–40 Hz that covered most ERD features re-lated to MI. Features were then extracted by CSP with parameter M =1.
- - Compared with this algorithms MLP, SVM, GKSVM, PKSVM, ELM, GKELM, PKELM and results are
+ - Compared with this algorithms MLP, SVM, GKSVM, PKSVM, ELM, GKELM, PKELM and accuracy of algorithms showwd in table. MKELM has the best accuracy among each subject. 
  ### Code
  
  ### Unknown Terms in the Paper
@@ -75,8 +76,8 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjE2ODI2NzksNDg5NTU5NzY5LC0xND
-UzMjYyNTgxLC05MjAyNzQyOTAsMTY1MDAyNTkzNCwtMTk1MTYw
-ODUyNSwtMTY2MTYwMDQ3LC03MzIzNzc1MTEsLTMyMTczOTQyMF
-19
+eyJoaXN0b3J5IjpbMTE0NjcxNzY0NSw0ODk1NTk3NjksLTE0NT
+MyNjI1ODEsLTkyMDI3NDI5MCwxNjUwMDI1OTM0LC0xOTUxNjA4
+NTI1LC0xNjYxNjAwNDcsLTczMjM3NzUxMSwtMzIxNzM5NDIwXX
+0=
 -->
