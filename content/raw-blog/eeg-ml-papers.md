@@ -29,6 +29,7 @@ All the `unknown terms` will be listed as randomly because I will write the expl
  -  
  ### Discussion/Conclusion (their own limitations & future work)
  - To take better results from MKEML, between two kernels there must be good balance. 
+ - Determining the number of hidden nodes for a specific application.
  ### Reflection on how to adress the limitations of the paper (my ideas )
  ### Datasets (Result)
  ### Comparison/benchmark methods (Results section)
@@ -66,7 +67,7 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODY5NjA4MSw0ODk1NTk3NjksLTE0NT
+eyJoaXN0b3J5IjpbLTM0NTU1MTA3Miw0ODk1NTk3NjksLTE0NT
 MyNjI1ODEsLTkyMDI3NDI5MCwxNjUwMDI1OTM0LC0xOTUxNjA4
 NTI1LC0xNjYxNjAwNDcsLTczMjM3NzUxMSwtMzIxNzM5NDIwXX
 0=
