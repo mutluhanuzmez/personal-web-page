@@ -56,8 +56,7 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 ### Authors
 C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 ### Motivation and brief overview (from Abstract)
-- First EEG data combined with Recurrent Neural Networks (RNN) to learn an discriminative brain activity manifold of visual categories in a reading the mind effort. After that, learned capabilities are transferred to machines by training a Convolutional Neural Network(CNN)
-- based reg
+- First EEG data combined with Recurrent Neural Networks (RNN) to learn an discriminative brain activity manifold of visual categories in a reading the mind effort. After that, learned capabilities are transferred to machines by training a Convolutional Neural Network(CNN) based regressor to project images onto the learned manifold.
 ### Previous methods (Intro) & their limitations
 - Previous works are not satisfying for which parts of visual cortex and brain are responsible for such cognitive processes because of the difficulties of cognition-based methods to perform visual tasks.
 ### Proposed Solution
@@ -86,9 +85,9 @@ C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQxMTMzNTgyLC0xNTkzNTU2OTU5LC0zOT
-E3Mjk1MTIsLTE4Mjc0ODM2OTIsMTk0MTg1NjM3Miw0ODk1NTk3
-NjksLTE0NTMyNjI1ODEsLTkyMDI3NDI5MCwxNjUwMDI1OTM0LC
-0xOTUxNjA4NTI1LC0xNjYxNjAwNDcsLTczMjM3NzUxMSwtMzIx
-NzM5NDIwXX0=
+eyJoaXN0b3J5IjpbLTE5Mjk0ODk1NSwtMTU5MzU1Njk1OSwtMz
+kxNzI5NTEyLC0xODI3NDgzNjkyLDE5NDE4NTYzNzIsNDg5NTU5
+NzY5LC0xNDUzMjYyNTgxLC05MjAyNzQyOTAsMTY1MDAyNTkzNC
+wtMTk1MTYwODUyNSwtMTY2MTYwMDQ3LC03MzIzNzc1MTEsLTMy
+MTczOTQyMF19
 -->
