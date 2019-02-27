@@ -78,10 +78,10 @@ Performance analysis divided in  three steps and they are at the below.
 - learning visual stimuli–evoked EEG data using RNN
 - CNN-based regression to map images to RNN-learned EEG-based features
 - the combination of the above two steps to implement automated visual classifiers.
-- Their approach is compared with GoogleNet and VGG and it is
+- Their approach is compared with GoogleNet and VGG and it results better than VGG and almost same with the GoogleNet.
 
 ### Code
-- Code does not exist
+- Code is not shared.
 
 ##  3- ...
 ### Authors
@@ -96,7 +96,7 @@ Performance analysis divided in  three steps and they are at the below.
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTA5NjgwMSwxNzY3OTQ3Njk2LDEwMz
+eyJoaXN0b3J5IjpbMTI4MDQ3Mjk2OSwxNzY3OTQ3Njk2LDEwMz
 gxODU0OTMsMTM0ODk5NTYzOSwtMTkyOTQ4OTU1LC0xNTkzNTU2
 OTU5LC0zOTE3Mjk1MTIsLTE4Mjc0ODM2OTIsMTk0MTg1NjM3Mi
 w0ODk1NTk3NjksLTE0NTMyNjI1ODEsLTkyMDI3NDI5MCwxNjUw
