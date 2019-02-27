@@ -22,6 +22,7 @@ All the `unknown terms` will be listed as randomly because I will write the expl
 
  ### Proposed Solution
   - ELM has recently proven to be comparable or better than support vector machine(SVM) for  pattern matching. 
+  - Instead of using a single kernel, ELM with multi kernel has recently arisen.
  ### Discoveries
  ### Discussion/Conclusion (their own limitations & future work)
  ### Reflection on how to adress the limitations of the paper (my ideas )
@@ -61,7 +62,7 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjE5MzQ5MjUsLTkyMDI3NDI5MCwxNj
-UwMDI1OTM0LC0xOTUxNjA4NTI1LC0xNjYxNjAwNDcsLTczMjM3
-NzUxMSwtMzIxNzM5NDIwXX0=
+eyJoaXN0b3J5IjpbMzQ2NTE4NjMsLTkyMDI3NDI5MCwxNjUwMD
+I1OTM0LC0xOTUxNjA4NTI1LC0xNjYxNjAwNDcsLTczMjM3NzUx
+MSwtMzIxNzM5NDIwXX0=
 -->
