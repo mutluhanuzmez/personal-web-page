@@ -29,7 +29,7 @@ All the `unknown terms` will be listed as randomly because I will write the expl
  -  Using the multi-kernel extreme learning machine with both integrating gaussian kernel and polynomial kernel to take better results. The two nonlinear feature provide richer discriminant information that may be supplementary to each other. 
  
  ### Discussion/Conclusion (their own limitations & future work)
- - To take better results from MKEML, between two kernels there must be good balance. 
+ - To take better results from MKEML, between two kernels there must be good balance. (Polynomial kernel and Gaussian kernel)
  - Determining the number of hidden nodes for a specific application. (Time consuming)
  - Future work: Investigating the finding a better kernel balance parameter.
  ### Reflection on how to adress the limitations of the paper (my ideas )
@@ -40,7 +40,7 @@ All the `unknown terms` will be listed as randomly because I will write the expl
  
  ### Comparison/benchmark methods (Results section)
  - EEG data of each trial were band-pass filtered between 4–40 Hz that covered most ERD features re-lated to MI. Features were then extracted by CSP with parameter M =1.
- - Compared with this algorithms MLP, SVM, GKSVM, PKSVM, ELM, GKELM, PKELM and accuracy of algorithms showwd in table. MKELM has the best accuracy among each subject. 
+ - Compared with this algorithms MLP, SVM, GKSVM, PKSVM, ELM, GKELM, PKELM and accuracy of algorithms showwd in table. **MKELM has the best accuracy among each subject.**
  ### Code
  
  ### Unknown Terms in the Paper
@@ -76,7 +76,7 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjcxNzY0NSw0ODk1NTk3NjksLTE0NT
+eyJoaXN0b3J5IjpbMTQxMTQwOTc1OCw0ODk1NTk3NjksLTE0NT
 MyNjI1ODEsLTkyMDI3NDI5MCwxNjUwMDI1OTM0LC0xOTUxNjA4
 NTI1LC0xNjYxNjAwNDcsLTczMjM3NzUxMSwtMzIxNzM5NDIwXX
 0=
