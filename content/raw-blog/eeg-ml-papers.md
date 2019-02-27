@@ -12,7 +12,7 @@ All the `unknown terms` will be listed as randomly because I will write the expl
 
  ### Motivation and brief overview (from Abstract)
  - Goal: Designing a powerful EEG data classifier with strong  generalization capability for the development of a motor-imagery based brain-computer interface(BCI). 
- - Proposed Solution: 
+ - Proposed Solution: A multi kernel extreme learning machine (ELM)(MKELM) based for motor-imagery 
  ### Previous methods (Intro) & their limitations
  ### Proposed Solution
  ### Discoveries
@@ -26,6 +26,7 @@ All the `unknown terms` will be listed as randomly because I will write the expl
 The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **rhythm** of synchronized electric brain activity. It appears in spindles in recordings of EEG, MEG, and ECoG over the **sensorimotor**cortex. For most individuals, the frequency of the SMR is in the range of 13 to 15 Hz.
 
 - Motor-Imagery(MI) ?
+-  Extreme Learning Machine?
 
 ##  2- ...
 ### Authors
@@ -53,6 +54,6 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njg1MDAxODUsLTE2NjE2MDA0NywtNz
-MyMzc3NTExLC0zMjE3Mzk0MjBdfQ==
+eyJoaXN0b3J5IjpbNjUyNDI0Njg4LC0xNjYxNjAwNDcsLTczMj
+M3NzUxMSwtMzIxNzM5NDIwXX0=
 -->
