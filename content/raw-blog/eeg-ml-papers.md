@@ -36,6 +36,7 @@ All the `unknown terms` will be listed as randomly because I will write the expl
  ### Datasets (Result)
  http://www.bbci.de/competition/iii/
  ### Comparison/benchmark methods (Results section)
+ Compared with this algorithms MLP, SVM, GKSVM, PKSVM, ELM, GKELM, PKELM and results are
  ### Code
  ### Unknown Terms in the Paper
 -  Sensorimotor(SMR)
@@ -70,8 +71,8 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDk1ODY2LDQ4OTU1OTc2OSwtMTQ1Mz
-I2MjU4MSwtOTIwMjc0MjkwLDE2NTAwMjU5MzQsLTE5NTE2MDg1
-MjUsLTE2NjE2MDA0NywtNzMyMzc3NTExLC0zMjE3Mzk0MjBdfQ
-==
+eyJoaXN0b3J5IjpbLTU0ODMwMjc3MSw0ODk1NTk3NjksLTE0NT
+MyNjI1ODEsLTkyMDI3NDI5MCwxNjUwMDI1OTM0LC0xOTUxNjA4
+NTI1LC0xNjYxNjAwNDcsLTczMjM3NzUxMSwtMzIxNzM5NDIwXX
+0=
 -->
