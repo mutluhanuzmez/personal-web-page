@@ -72,6 +72,7 @@ C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 ### Reflection on how to adress the limitations of the paper (my ideas )
  - I could not see any limitations in the paper with my current knowlodge.
 ### Datasets (Result)
+
 ### Comparison/benchmark methods (Results section)
 - 
 ### Code
@@ -90,9 +91,10 @@ C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODE4NTQ5MywxMzQ4OTk1NjM5LC0xOT
-I5NDg5NTUsLTE1OTM1NTY5NTksLTM5MTcyOTUxMiwtMTgyNzQ4
-MzY5MiwxOTQxODU2MzcyLDQ4OTU1OTc2OSwtMTQ1MzI2MjU4MS
-wtOTIwMjc0MjkwLDE2NTAwMjU5MzQsLTE5NTE2MDg1MjUsLTE2
-NjE2MDA0NywtNzMyMzc3NTExLC0zMjE3Mzk0MjBdfQ==
+eyJoaXN0b3J5IjpbMzAxNDE2ODA3LDEwMzgxODU0OTMsMTM0OD
+k5NTYzOSwtMTkyOTQ4OTU1LC0xNTkzNTU2OTU5LC0zOTE3Mjk1
+MTIsLTE4Mjc0ODM2OTIsMTk0MTg1NjM3Miw0ODk1NTk3NjksLT
+E0NTMyNjI1ODEsLTkyMDI3NDI5MCwxNjUwMDI1OTM0LC0xOTUx
+NjA4NTI1LC0xNjYxNjAwNDcsLTczMjM3NzUxMSwtMzIxNzM5ND
+IwXX0=
 -->
