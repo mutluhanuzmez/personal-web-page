@@ -58,7 +58,7 @@ C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 ### Motivation and brief overview (from Abstract)
 
 ### Previous methods (Intro) & their limitations
-- Previous works 
+- Previous works are not satisfying for which parts of visual cortex and brain are responsible for such cognitive processes because of the difficulties of cognition-based methods to perfor
 ### Proposed Solution
 
 - A deep learning approach to classify EEG data evoked by visual object stimuli outperforming state-of-the-art methods both in the number of tackled object classes and in classification accuracy.
@@ -85,7 +85,7 @@ C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2Nzk3NTMxLC0xNTkzNTU2OTU5LC0zOT
+eyJoaXN0b3J5IjpbMjgyMDI5MDg0LC0xNTkzNTU2OTU5LC0zOT
 E3Mjk1MTIsLTE4Mjc0ODM2OTIsMTk0MTg1NjM3Miw0ODk1NTk3
 NjksLTE0NTMyNjI1ODEsLTkyMDI3NDI5MCwxNjUwMDI1OTM0LC
 0xOTUxNjA4NTI1LC0xNjYxNjAwNDcsLTczMjM3NzUxMSwtMzIx
