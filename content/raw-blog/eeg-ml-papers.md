@@ -65,7 +65,7 @@ C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 - The first computer vision approach driven by brain signals, the first automated classification approach employing visual descriptors extracted directly from human neural processes involved in visual scene analysis.
 
 ### Discoveries
-- Machine classifi
+- Convolutional Neural Network classifier trained with human eeg feature representation.
 ### Discussion/Conclusion (their own limitations & future work)
 - Their own limitations are not mentioned clearly.
 - Future work is developing more complex deep learning approaches and interpretong the EEG-learned features in order to identify brain activation areas.
@@ -89,9 +89,9 @@ C. Spampinato, S. Palazzo, I. Kavasidis, D. Giordano
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxMjE1NTE1LDEzNDg5OTU2MzksLTE5Mj
-k0ODk1NSwtMTU5MzU1Njk1OSwtMzkxNzI5NTEyLC0xODI3NDgz
-NjkyLDE5NDE4NTYzNzIsNDg5NTU5NzY5LC0xNDUzMjYyNTgxLC
-05MjAyNzQyOTAsMTY1MDAyNTkzNCwtMTk1MTYwODUyNSwtMTY2
-MTYwMDQ3LC03MzIzNzc1MTEsLTMyMTczOTQyMF19
+eyJoaXN0b3J5IjpbLTEwMDUxNTM4NTUsMTM0ODk5NTYzOSwtMT
+kyOTQ4OTU1LC0xNTkzNTU2OTU5LC0zOTE3Mjk1MTIsLTE4Mjc0
+ODM2OTIsMTk0MTg1NjM3Miw0ODk1NTk3NjksLTE0NTMyNjI1OD
+EsLTkyMDI3NDI5MCwxNjUwMDI1OTM0LC0xOTUxNjA4NTI1LC0x
+NjYxNjAwNDcsLTczMjM3NzUxMSwtMzIxNzM5NDIwXX0=
 -->
