@@ -43,12 +43,14 @@ All the `unknown terms` will be listed as randomly because I will write the expl
  - Compared with this algorithms MLP, SVM, GKSVM, PKSVM, ELM, GKELM, PKELM and accuracy of algorithms showwd in table. **MKELM has the best accuracy among each subject.**
  ### Code
  
- ### Unknown Terms in the Paper
+ ### Unknown Terms in the Paper for me
+ 
 -  Sensorimotor(SMR)
 The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **rhythm** of synchronized electric brain activity. It appears in spindles in recordings of EEG, MEG, and ECoG over the **sensorimotor**cortex. For most individuals, the frequency of the SMR is in the range of 13 to 15 Hz.
 
 - Motor-Imagery(MI) ?
--  Extreme Learning Machine?
+- Extreme Learning Machine?
+- Event-related Desynchronization(ERD)?
 
 ##  2- ...
 ### Authors
@@ -76,7 +78,7 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTQwOTc1OCw0ODk1NTk3NjksLTE0NT
+eyJoaXN0b3J5IjpbMTk0MTg1NjM3Miw0ODk1NTk3NjksLTE0NT
 MyNjI1ODEsLTkyMDI3NDI5MCwxNjUwMDI1OTM0LC0xOTUxNjA4
 NTI1LC0xNjYxNjAwNDcsLTczMjM3NzUxMSwtMzIxNzM5NDIwXX
 0=
