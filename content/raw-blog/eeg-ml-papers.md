@@ -32,37 +32,11 @@ All the `unknown terms` will be listed as randomly because I will write the expl
  - Determining the number of hidden nodes for a specific application. (Time consuming)
  - Future work: Investigating the finding a better kernel balance parameter.
  ### Reflection on how to adress the limitations of the paper (my ideas )
- 
+ - I could not see any limitations in the paper with my current knowlodge.
  ### Datasets (Result)
  http://www.bbci.de/competition/iii/
  ### Comparison/benchmark methods (Results section)
- - EEG data of each trial were band-pass filtered between 4–40 Hz that covered most ERD features re- lated
-
-to
-
-MI.
-
-Features
-
-were
-
-then
-
-extracted
-
-by
-
-CSP
-
-with
-
-parameter
-
-M
-
-=
-
-1
+ - EEG data of each trial were band-pass filtered between 4–40 Hz that covered most ERD features re-lated to MI. Features were then extracted by CSP with parameter M =1.
  - Compared with this algorithms MLP, SVM, GKSVM, PKSVM, ELM, GKELM, PKELM and results are
  ### Code
  ### Unknown Terms in the Paper
@@ -98,8 +72,8 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA1MTQzMTM5LDQ4OTU1OTc2OSwtMTQ1Mz
-I2MjU4MSwtOTIwMjc0MjkwLDE2NTAwMjU5MzQsLTE5NTE2MDg1
-MjUsLTE2NjE2MDA0NywtNzMyMzc3NTExLC0zMjE3Mzk0MjBdfQ
-==
+eyJoaXN0b3J5IjpbMTA5OTY2MTcxMiw0ODk1NTk3NjksLTE0NT
+MyNjI1ODEsLTkyMDI3NDI5MCwxNjUwMDI1OTM0LC0xOTUxNjA4
+NTI1LC0xNjYxNjAwNDcsLTczMjM3NzUxMSwtMzIxNzM5NDIwXX
+0=
 -->
