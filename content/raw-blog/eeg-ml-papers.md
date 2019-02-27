@@ -16,8 +16,8 @@ All the `unknown terms` will be listed as randomly because I will write the expl
  
  ### Previous methods (Intro) & their limitations
  - ELM has recently proven to be comparable or better than support vector machine(SVM) for  pattern matching.
- - Linear Discriminant Analysis(LDA) works for pattern classification if the sample covariance matrices are similar among different classes. But ERD classification it can cause overfitting.
-- Common spatial pattern(CSP) and SVM when they are used together, it becomes one of the most popular classifier for EEG data according to recent researches.
+ - Linear Discriminant Analysis(LDA) works for pattern classification if the sample covariance matrices are similar among different classes. But ERD classification with LDA can cause overfitting.
+- Common spatial pattern(CSP) and SVM when they are used together, it becomes one of the most popular classifier for EEG data. Common spatial pattern is effective method for feature extraction of
  ### Proposed Solution
  ### Discoveries
  ### Discussion/Conclusion (their own limitations & future work)
@@ -58,6 +58,7 @@ The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **r
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDAyNTkzNCwtMTk1MTYwODUyNSwtMT
-Y2MTYwMDQ3LC03MzIzNzc1MTEsLTMyMTczOTQyMF19
+eyJoaXN0b3J5IjpbLTE5MDY1NjMyMzEsMTY1MDAyNTkzNCwtMT
+k1MTYwODUyNSwtMTY2MTYwMDQ3LC03MzIzNzc1MTEsLTMyMTcz
+OTQyMF19
 -->
