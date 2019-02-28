@@ -5,6 +5,15 @@ In this post, there will be explanations of keywords about the subject which is 
 
 All the `unknown terms` will be listed as randomly because I will write the explanations of term one by one when I saw one in an article.
 
+ ### Unknown Terms in the Paper for me
+ 
+-  Sensorimotor(SMR)
+The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **rhythm** of synchronized electric brain activity. It appears in spindles in recordings of EEG, MEG, and ECoG over the **sensorimotor**cortex. For most individuals, the frequency of the SMR is in the range of 13 to 15 Hz.
+
+- Motor-Imagery(MI) ?
+- Extreme Learning Machine?
+- Event-related Desynchronization(ERD)?
+
 # Paper Examinations and Summaries
 ##  1- Multi-kernel extreme learning machine for EEG classification in brain-computer interfaces - 2017
  ### Authors
@@ -43,14 +52,6 @@ All the `unknown terms` will be listed as randomly because I will write the expl
  - Compared with this algorithms MLP, SVM, GKSVM, PKSVM, ELM, GKELM, PKELM and accuracy of algorithms showwd in table. **MKELM has the best accuracy among each subject.**
  ### Code
  Code implementation could not be found though algorithm explained in the paper.
- ### Unknown Terms in the Paper for me
- 
--  Sensorimotor(SMR)
-The **sensorimotor rhythm** (SMR) is a brain wave. It is an oscillatory idle **rhythm** of synchronized electric brain activity. It appears in spindles in recordings of EEG, MEG, and ECoG over the **sensorimotor**cortex. For most individuals, the frequency of the SMR is in the range of 13 to 15 Hz.
-
-- Motor-Imagery(MI) ?
-- Extreme Learning Machine?
-- Event-related Desynchronization(ERD)?
 
 ##  2- Deep Learning Human Mind for Automated Visual Classification
 ### Authors
@@ -101,13 +102,12 @@ Hauke Dose , Jakob S. Møller, Helle K. Iversen , Sadasivan Puthusserypada
 -  The selected global classifier reached 80.38%, 69.82%, and 58.58% mean accuracies for datasets with two, three, and four classes, respectively, validated using 5-fold crossvalidation. As a novel approach in this context, transfer learning was used to adapt the global classifier to single individuals improving the overall mean accuracy to 86.49%, 79.25%, and 68.51%, respectively. The global models were trained on 3s segments of EEG data from different subjects than they were tested on, which proved the generalization performance of the model.
 ### Comparison/benchmark methods (Results section)
 ### Code
-### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTgwNDIyOSwxMjc2MDAxMDM4LDE4Nz
-c5MzIzNzMsLTE2MjkzMjQ1ODAsMTI4MDQ3Mjk2OSwxNzY3OTQ3
-Njk2LDEwMzgxODU0OTMsMTM0ODk5NTYzOSwtMTkyOTQ4OTU1LC
-0xNTkzNTU2OTU5LC0zOTE3Mjk1MTIsLTE4Mjc0ODM2OTIsMTk0
-MTg1NjM3Miw0ODk1NTk3NjksLTE0NTMyNjI1ODEsLTkyMDI3ND
-I5MCwxNjUwMDI1OTM0LC0xOTUxNjA4NTI1LC0xNjYxNjAwNDcs
-LTczMjM3NzUxMV19
+eyJoaXN0b3J5IjpbLTEwNjkyMTY0NjcsMTI3NjAwMTAzOCwxOD
+c3OTMyMzczLC0xNjI5MzI0NTgwLDEyODA0NzI5NjksMTc2Nzk0
+NzY5NiwxMDM4MTg1NDkzLDEzNDg5OTU2MzksLTE5Mjk0ODk1NS
+wtMTU5MzU1Njk1OSwtMzkxNzI5NTEyLC0xODI3NDgzNjkyLDE5
+NDE4NTYzNzIsNDg5NTU5NzY5LC0xNDUzMjYyNTgxLC05MjAyNz
+QyOTAsMTY1MDAyNTkzNCwtMTk1MTYwODUyNSwtMTY2MTYwMDQ3
+LC03MzIzNzc1MTFdfQ==
 -->
