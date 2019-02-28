@@ -89,7 +89,7 @@ Hauke Dose , Jakob S. Møller, Helle K. Iversen , Sadasivan Puthusserypada
 ### Motivation and brief overview (from Abstract)
 - Developing a Deep Learning approach for EEG based MI-BCI system could potentially be used the improve current stroke rehabilitation strategies.
 ### Previous methods (Intro) & their limitations
-- 
+- In this paper alsit is mentioned that CSP and SVM most used algorithms for EEG classification but there writes also there are previous works which MLP(multi-layer-perceptron) can be used with CSP instead of SVM. 
 ### Proposed Solution
 - CNN layers is used for learning generalization featuers and dimension reduction while a conventional Fully Connected(FC) layer is used for classification. Both togeher can be applied to the raw eeg signals.
 ### Discoveries
@@ -102,11 +102,11 @@ Hauke Dose , Jakob S. Møller, Helle K. Iversen , Sadasivan Puthusserypada
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NzkzMjM3MywtMTYyOTMyNDU4MCwxMj
-gwNDcyOTY5LDE3Njc5NDc2OTYsMTAzODE4NTQ5MywxMzQ4OTk1
-NjM5LC0xOTI5NDg5NTUsLTE1OTM1NTY5NTksLTM5MTcyOTUxMi
-wtMTgyNzQ4MzY5MiwxOTQxODU2MzcyLDQ4OTU1OTc2OSwtMTQ1
-MzI2MjU4MSwtOTIwMjc0MjkwLDE2NTAwMjU5MzQsLTE5NTE2MD
-g1MjUsLTE2NjE2MDA0NywtNzMyMzc3NTExLC0zMjE3Mzk0MjBd
-fQ==
+eyJoaXN0b3J5IjpbOTYwNjI1Njk1LDE4Nzc5MzIzNzMsLTE2Mj
+kzMjQ1ODAsMTI4MDQ3Mjk2OSwxNzY3OTQ3Njk2LDEwMzgxODU0
+OTMsMTM0ODk5NTYzOSwtMTkyOTQ4OTU1LC0xNTkzNTU2OTU5LC
+0zOTE3Mjk1MTIsLTE4Mjc0ODM2OTIsMTk0MTg1NjM3Miw0ODk1
+NTk3NjksLTE0NTMyNjI1ODEsLTkyMDI3NDI5MCwxNjUwMDI1OT
+M0LC0xOTUxNjA4NTI1LC0xNjYxNjAwNDcsLTczMjM3NzUxMSwt
+MzIxNzM5NDIwXX0=
 -->
