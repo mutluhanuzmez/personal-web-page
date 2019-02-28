@@ -110,14 +110,17 @@ Compared algorithms are listed at the below
 - Park, Took, and Mandic (2014b) - SUT-CCSP SVM
 - Handiru and Prasad (2016) - FB-CSP SVM classifier
 - Kim et al. (2016b) - SUT-CCSP Random forest
-- Loboda et al. (2014) -
+- Loboda et al. (2014) - Phase information
+- Tolic and Jovic (2013) - Wavelet transform DNN
 ### Code
+- Code is not shared.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDkzODczMiwtNjYzODYzOTAwLC0xND
-k5NzcyNjM0LC0xMDY5MjE2NDY3LDEyNzYwMDEwMzgsMTg3Nzkz
-MjM3MywtMTYyOTMyNDU4MCwxMjgwNDcyOTY5LDE3Njc5NDc2OT
-YsMTAzODE4NTQ5MywxMzQ4OTk1NjM5LC0xOTI5NDg5NTUsLTE1
-OTM1NTY5NTksLTM5MTcyOTUxMiwtMTgyNzQ4MzY5MiwxOTQxOD
-U2MzcyLDQ4OTU1OTc2OSwtMTQ1MzI2MjU4MSwtOTIwMjc0Mjkw
-LDE2NTAwMjU5MzRdfQ==
+eyJoaXN0b3J5IjpbLTExMzg3NjcwMDcsLTY2Mzg2MzkwMCwtMT
+Q5OTc3MjYzNCwtMTA2OTIxNjQ2NywxMjc2MDAxMDM4LDE4Nzc5
+MzIzNzMsLTE2MjkzMjQ1ODAsMTI4MDQ3Mjk2OSwxNzY3OTQ3Nj
+k2LDEwMzgxODU0OTMsMTM0ODk5NTYzOSwtMTkyOTQ4OTU1LC0x
+NTkzNTU2OTU5LC0zOTE3Mjk1MTIsLTE4Mjc0ODM2OTIsMTk0MT
+g1NjM3Miw0ODk1NTk3NjksLTE0NTMyNjI1ODEsLTkyMDI3NDI5
+MCwxNjUwMDI1OTM0XX0=
 -->
