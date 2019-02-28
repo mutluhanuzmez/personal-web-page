@@ -98,7 +98,7 @@ Hauke Dose , Jakob S. Møller, Helle K. Iversen , Sadasivan Puthusserypada
 ### Discussion/Conclusion (their own limitations & future work)
 - This algorithm gives the best accuracy among all of them but competitors algorithm does not represent the current state of research in this area but accuracy is close to the %80 and coud be count as a success. 
 - Deep learning need more data samples than other machine learning algorithms like SVM. It is one of the limitation.
-- **Future Work**
+- **Future Work** This study has also shown that the predictor draws most relevant information from the beginning and the end of the imagined movement rather than the period in between. A recurrent or other further developed models may be constructed in a way so it can use the presence of a probable movement onset to increase its prediction certainty for the following part of the recording as the movement type never changes abruptly in the given experimental paradigm.
 ### Reflection on how to adress the limitations of the paper (my ideas )
 -   I could not see any limitations in the paper with my current knowlodge.
 ### Datasets (Result)
@@ -106,11 +106,11 @@ Hauke Dose , Jakob S. Møller, Helle K. Iversen , Sadasivan Puthusserypada
 ### Comparison/benchmark methods (Results section)
 ### Code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTk5NTgxNDIsLTE0OTk3NzI2MzQsLT
-EwNjkyMTY0NjcsMTI3NjAwMTAzOCwxODc3OTMyMzczLC0xNjI5
-MzI0NTgwLDEyODA0NzI5NjksMTc2Nzk0NzY5NiwxMDM4MTg1ND
-kzLDEzNDg5OTU2MzksLTE5Mjk0ODk1NSwtMTU5MzU1Njk1OSwt
-MzkxNzI5NTEyLC0xODI3NDgzNjkyLDE5NDE4NTYzNzIsNDg5NT
-U5NzY5LC0xNDUzMjYyNTgxLC05MjAyNzQyOTAsMTY1MDAyNTkz
-NCwtMTk1MTYwODUyNV19
+eyJoaXN0b3J5IjpbMTE4NjgzMjE2MiwtMTQ5OTc3MjYzNCwtMT
+A2OTIxNjQ2NywxMjc2MDAxMDM4LDE4Nzc5MzIzNzMsLTE2Mjkz
+MjQ1ODAsMTI4MDQ3Mjk2OSwxNzY3OTQ3Njk2LDEwMzgxODU0OT
+MsMTM0ODk5NTYzOSwtMTkyOTQ4OTU1LC0xNTkzNTU2OTU5LC0z
+OTE3Mjk1MTIsLTE4Mjc0ODM2OTIsMTk0MTg1NjM3Miw0ODk1NT
+k3NjksLTE0NTMyNjI1ODEsLTkyMDI3NDI5MCwxNjUwMDI1OTM0
+LC0xOTUxNjA4NTI1XX0=
 -->
