@@ -95,11 +95,12 @@ Hauke Dose , Jakob S. Møller, Helle K. Iversen , Sadasivan Puthusserypada
 ### Discussion/Conclusion (their own limitations & future work)
 ### Reflection on how to adress the limitations of the paper (my ideas )
 ### Datasets (Result)
+-  The selected global classifier reached 80.38%, 69.82%, and 58.58% mean accuracies for datasets with two, three, and four classes, respectively, validated using 5-fold crossvalidation. As a novel approach in this context, transfer learning was used to adapt the global classifier to single individuals improving the overall mean accuracy to 86.49%, 79.25%, and 68.51%, respectively. The global models were trained on 3s segments of EEG data from different subjects than they were tested on, which proved the generalization performance of the model.
 ### Comparison/benchmark methods (Results section)
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTkwNzc2MCwtMTYyOTMyNDU4MCwxMj
+eyJoaXN0b3J5IjpbLTQwODQ0NTE1MywtMTYyOTMyNDU4MCwxMj
 gwNDcyOTY5LDE3Njc5NDc2OTYsMTAzODE4NTQ5MywxMzQ4OTk1
 NjM5LC0xOTI5NDg5NTUsLTE1OTM1NTY5NTksLTM5MTcyOTUxMi
 wtMTgyNzQ4MzY5MiwxOTQxODU2MzcyLDQ4OTU1OTc2OSwtMTQ1
