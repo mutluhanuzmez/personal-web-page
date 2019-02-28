@@ -96,7 +96,9 @@ Hauke Dose , Jakob S. Møller, Helle K. Iversen , Sadasivan Puthusserypada
 ### Discoveries
 - 
 ### Discussion/Conclusion (their own limitations & future work)
-- This algorithm gives the best accuracy among all of them but competitors algorithm does not represent the current state
+- This algorithm gives the best accuracy among all of them but competitors algorithm does not represent the current state of research in this area but accuracy is close to the %80 and coud be count as a success. 
+- Deep learning need more data samples than other machine learning algorithms like SVM. It is one of the limitation.
+- 
 ### Reflection on how to adress the limitations of the paper (my ideas )
 -   I could not see any limitations in the paper with my current knowlodge.
 ### Datasets (Result)
@@ -104,7 +106,7 @@ Hauke Dose , Jakob S. Møller, Helle K. Iversen , Sadasivan Puthusserypada
 ### Comparison/benchmark methods (Results section)
 ### Code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzI3MTk1MzksLTEwNjkyMTY0NjcsMT
+eyJoaXN0b3J5IjpbLTE0OTk3NzI2MzQsLTEwNjkyMTY0NjcsMT
 I3NjAwMTAzOCwxODc3OTMyMzczLC0xNjI5MzI0NTgwLDEyODA0
 NzI5NjksMTc2Nzk0NzY5NiwxMDM4MTg1NDkzLDEzNDg5OTU2Mz
 ksLTE5Mjk0ODk1NSwtMTU5MzU1Njk1OSwtMzkxNzI5NTEyLC0x
