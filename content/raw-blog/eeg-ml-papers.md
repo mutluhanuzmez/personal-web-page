@@ -94,19 +94,21 @@ Hauke Dose , Jakob S. Møller, Helle K. Iversen , Sadasivan Puthusserypada
 ### Proposed Solution
 - CNN layers is used for learning generalization featuers and dimension reduction while a conventional Fully Connected(FC) layer is used for classification. Both togeher can be applied to the raw eeg signals.
 ### Discoveries
-- 
+- This study has also shown that the predictor draws most relevant information from the beginning and the end of the imagined movement rather than the period in between. (quotation from the paper)
 ### Discussion/Conclusion (their own limitations & future work)
 - This algorithm gives the best accuracy among all of them but competitors algorithm does not represent the current state of research in this area but accuracy is close to the %80 and coud be count as a success. 
 - Deep learning need more data samples than other machine learning algorithms like SVM. It is one of the limitation.
-- **Future Work** This study has also shown that the predictor draws most relevant information from the beginning and the end of the imagined movement rather than the period in between. A recurrent or other further developed models may be constructed in a way so it can use the presence of a probable movement onset to increase its prediction certainty for the following part of the recording as the movement type never changes abruptly in the given experimental paradigm.
+- **Future Work** A recurrent or other further developed models may be constructed in a way so it can use the presence of a probable movement onset to increase its prediction certainty for the following part of the recording as the movement type never changes abruptly in the given experimental paradigm.(quotation from the paper)
+
 ### Reflection on how to adress the limitations of the paper (my ideas )
 -   I could not see any limitations in the paper with my current knowlodge.
 ### Datasets (Result)
 -  The selected global classifier reached 80.38%, 69.82%, and 58.58% mean accuracies for datasets with two, three, and four classes, respectively, validated using 5-fold crossvalidation. As a novel approach in this context, transfer learning was used to adapt the global classifier to single individuals improving the overall mean accuracy to 86.49%, 79.25%, and 68.51%, respectively. The global models were trained on 3s segments of EEG data from different subjects than they were tested on, which proved the generalization performance of the model.
 ### Comparison/benchmark methods (Results section)
+
 ### Code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjgzMjE2MiwtMTQ5OTc3MjYzNCwtMT
+eyJoaXN0b3J5IjpbLTIzNDU1MTY4MiwtMTQ5OTc3MjYzNCwtMT
 A2OTIxNjQ2NywxMjc2MDAxMDM4LDE4Nzc5MzIzNzMsLTE2Mjkz
 MjQ1ODAsMTI4MDQ3Mjk2OSwxNzY3OTQ3Njk2LDEwMzgxODU0OT
 MsMTM0ODk5NTYzOSwtMTkyOTQ4OTU1LC0xNTkzNTU2OTU5LC0z
