@@ -89,9 +89,11 @@ Hauke Dose , Jakob S. Møller, Helle K. Iversen , Sadasivan Puthusserypada
 ### Motivation and brief overview (from Abstract)
 - Developing a Deep Learning approach for EEG based MI-BCI system could potentially be used the improve current stroke rehabilitation strategies.
 ### Previous methods (Intro) & their limitations
+- 
 ### Proposed Solution
 - CNN layers is used for learning generalization featuers and dimension reduction while a conventional Fully Connected(FC) layer is used for classification. Both togeher can be applied to the raw eeg signals.
 ### Discoveries
+- 
 ### Discussion/Conclusion (their own limitations & future work)
 ### Reflection on how to adress the limitations of the paper (my ideas )
 ### Datasets (Result)
@@ -100,7 +102,7 @@ Hauke Dose , Jakob S. Møller, Helle K. Iversen , Sadasivan Puthusserypada
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODQ0NTE1MywtMTYyOTMyNDU4MCwxMj
+eyJoaXN0b3J5IjpbMTg3NzkzMjM3MywtMTYyOTMyNDU4MCwxMj
 gwNDcyOTY5LDE3Njc5NDc2OTYsMTAzODE4NTQ5MywxMzQ4OTk1
 NjM5LC0xOTI5NDg5NTUsLTE1OTM1NTY5NTksLTM5MTcyOTUxMi
 wtMTgyNzQ4MzY5MiwxOTQxODU2MzcyLDQ4OTU1OTc2OSwtMTQ1
