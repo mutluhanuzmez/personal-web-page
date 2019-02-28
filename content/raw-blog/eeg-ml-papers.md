@@ -89,24 +89,25 @@ Hauke Dose , Jakob S. Møller, Helle K. Iversen , Sadasivan Puthusserypada
 ### Motivation and brief overview (from Abstract)
 - Developing a Deep Learning approach for EEG based MI-BCI system could potentially be used the improve current stroke rehabilitation strategies.
 ### Previous methods (Intro) & their limitations
-- In this paper it is also mentioned that CSP and SVM most used algorithms for EEG classification but there writes also there are previous works which MLP(multi-layer-perceptron) can be used with CSP instead of SVM. 
+- In this paper it is also mentioned that CSP and SVM most used algorithms for EEG classification but there writes also there is a previous work which MLP(multi-layer-perceptron) can be used with CSP instead of SVM. 
 ### Proposed Solution
 - CNN layers is used for learning generalization featuers and dimension reduction while a conventional Fully Connected(FC) layer is used for classification. Both togeher can be applied to the raw eeg signals.
 ### Discoveries
 - 
 ### Discussion/Conclusion (their own limitations & future work)
 ### Reflection on how to adress the limitations of the paper (my ideas )
+-   I could not see any limitations in the paper with my current knowlodge.
 ### Datasets (Result)
 -  The selected global classifier reached 80.38%, 69.82%, and 58.58% mean accuracies for datasets with two, three, and four classes, respectively, validated using 5-fold crossvalidation. As a novel approach in this context, transfer learning was used to adapt the global classifier to single individuals improving the overall mean accuracy to 86.49%, 79.25%, and 68.51%, respectively. The global models were trained on 3s segments of EEG data from different subjects than they were tested on, which proved the generalization performance of the model.
 ### Comparison/benchmark methods (Results section)
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NjAwMTAzOCwxODc3OTMyMzczLC0xNj
-I5MzI0NTgwLDEyODA0NzI5NjksMTc2Nzk0NzY5NiwxMDM4MTg1
-NDkzLDEzNDg5OTU2MzksLTE5Mjk0ODk1NSwtMTU5MzU1Njk1OS
-wtMzkxNzI5NTEyLC0xODI3NDgzNjkyLDE5NDE4NTYzNzIsNDg5
-NTU5NzY5LC0xNDUzMjYyNTgxLC05MjAyNzQyOTAsMTY1MDAyNT
-kzNCwtMTk1MTYwODUyNSwtMTY2MTYwMDQ3LC03MzIzNzc1MTEs
-LTMyMTczOTQyMF19
+eyJoaXN0b3J5IjpbMTgzNTgwNDIyOSwxMjc2MDAxMDM4LDE4Nz
+c5MzIzNzMsLTE2MjkzMjQ1ODAsMTI4MDQ3Mjk2OSwxNzY3OTQ3
+Njk2LDEwMzgxODU0OTMsMTM0ODk5NTYzOSwtMTkyOTQ4OTU1LC
+0xNTkzNTU2OTU5LC0zOTE3Mjk1MTIsLTE4Mjc0ODM2OTIsMTk0
+MTg1NjM3Miw0ODk1NTk3NjksLTE0NTMyNjI1ODEsLTkyMDI3ND
+I5MCwxNjUwMDI1OTM0LC0xOTUxNjA4NTI1LC0xNjYxNjAwNDcs
+LTczMjM3NzUxMV19
 -->
