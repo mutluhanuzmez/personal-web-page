@@ -87,7 +87,7 @@ Performance analysis divided in  three steps and they are at the below.
 ### Authors
 Hauke Dose , Jakob S. Møller, Helle K. Iversen , Sadasivan Puthusserypada
 ### Motivation and brief overview (from Abstract)
-
+- Developing a Deep Learning approach for EEG based MI-BCI system could potentially be used the improve current stroke rehabilitati
 ### Previous methods (Intro) & their limitations
 ### Proposed Solution
 ### Discoveries
@@ -98,10 +98,11 @@ Hauke Dose , Jakob S. Møller, Helle K. Iversen , Sadasivan Puthusserypada
 ### Code
 ### Unknown Terms in the Paper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjkzMjQ1ODAsMTI4MDQ3Mjk2OSwxNz
-Y3OTQ3Njk2LDEwMzgxODU0OTMsMTM0ODk5NTYzOSwtMTkyOTQ4
-OTU1LC0xNTkzNTU2OTU5LC0zOTE3Mjk1MTIsLTE4Mjc0ODM2OT
-IsMTk0MTg1NjM3Miw0ODk1NTk3NjksLTE0NTMyNjI1ODEsLTky
-MDI3NDI5MCwxNjUwMDI1OTM0LC0xOTUxNjA4NTI1LC0xNjYxNj
-AwNDcsLTczMjM3NzUxMSwtMzIxNzM5NDIwXX0=
+eyJoaXN0b3J5IjpbOTI3NjA4NDk2LC0xNjI5MzI0NTgwLDEyOD
+A0NzI5NjksMTc2Nzk0NzY5NiwxMDM4MTg1NDkzLDEzNDg5OTU2
+MzksLTE5Mjk0ODk1NSwtMTU5MzU1Njk1OSwtMzkxNzI5NTEyLC
+0xODI3NDgzNjkyLDE5NDE4NTYzNzIsNDg5NTU5NzY5LC0xNDUz
+MjYyNTgxLC05MjAyNzQyOTAsMTY1MDAyNTkzNCwtMTk1MTYwOD
+UyNSwtMTY2MTYwMDQ3LC03MzIzNzc1MTEsLTMyMTczOTQyMF19
+
 -->
