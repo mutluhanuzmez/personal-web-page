@@ -105,14 +105,15 @@ Hauke Dose , Jakob S. Møller, Helle K. Iversen , Sadasivan Puthusserypada
 ### Datasets (Result)
 -  The selected global classifier reached 80.38%, 69.82%, and 58.58% mean accuracies for datasets with two, three, and four classes, respectively, validated using 5-fold crossvalidation. As a novel approach in this context, transfer learning was used to adapt the global classifier to single individuals improving the overall mean accuracy to 86.49%, 79.25%, and 68.51%, respectively. The global models were trained on 3s segments of EEG data from different subjects than they were tested on, which proved the generalization performance of the model.
 ### Comparison/benchmark methods (Results section)
-- This algorithm compared with other 5 algorithms which does not represent the current state-of-art
+- This algorithm compared with other 5 algorithms which do not represent the state-of-art. Proposed algorithm outcomes all of them and gives the best accuracy among them. 
+- Compared algorithms are
 ### Code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5MDg4MTkwLC0xNDk5NzcyNjM0LC0xMD
-Y5MjE2NDY3LDEyNzYwMDEwMzgsMTg3NzkzMjM3MywtMTYyOTMy
-NDU4MCwxMjgwNDcyOTY5LDE3Njc5NDc2OTYsMTAzODE4NTQ5My
-wxMzQ4OTk1NjM5LC0xOTI5NDg5NTUsLTE1OTM1NTY5NTksLTM5
-MTcyOTUxMiwtMTgyNzQ4MzY5MiwxOTQxODU2MzcyLDQ4OTU1OT
-c2OSwtMTQ1MzI2MjU4MSwtOTIwMjc0MjkwLDE2NTAwMjU5MzQs
-LTE5NTE2MDg1MjVdfQ==
+eyJoaXN0b3J5IjpbLTY2Mzg2MzkwMCwtMTQ5OTc3MjYzNCwtMT
+A2OTIxNjQ2NywxMjc2MDAxMDM4LDE4Nzc5MzIzNzMsLTE2Mjkz
+MjQ1ODAsMTI4MDQ3Mjk2OSwxNzY3OTQ3Njk2LDEwMzgxODU0OT
+MsMTM0ODk5NTYzOSwtMTkyOTQ4OTU1LC0xNTkzNTU2OTU5LC0z
+OTE3Mjk1MTIsLTE4Mjc0ODM2OTIsMTk0MTg1NjM3Miw0ODk1NT
+k3NjksLTE0NTMyNjI1ODEsLTkyMDI3NDI5MCwxNjUwMDI1OTM0
+LC0xOTUxNjA4NTI1XX0=
 -->
