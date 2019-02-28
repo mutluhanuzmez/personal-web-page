@@ -96,6 +96,7 @@ Hauke Dose , Jakob S. Møller, Helle K. Iversen , Sadasivan Puthusserypada
 ### Discoveries
 - 
 ### Discussion/Conclusion (their own limitations & future work)
+- This algorithm gives the best accuracy among all of them but competitors algorithm does not represent the current state
 ### Reflection on how to adress the limitations of the paper (my ideas )
 -   I could not see any limitations in the paper with my current knowlodge.
 ### Datasets (Result)
@@ -103,11 +104,11 @@ Hauke Dose , Jakob S. Møller, Helle K. Iversen , Sadasivan Puthusserypada
 ### Comparison/benchmark methods (Results section)
 ### Code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjkyMTY0NjcsMTI3NjAwMTAzOCwxOD
-c3OTMyMzczLC0xNjI5MzI0NTgwLDEyODA0NzI5NjksMTc2Nzk0
-NzY5NiwxMDM4MTg1NDkzLDEzNDg5OTU2MzksLTE5Mjk0ODk1NS
-wtMTU5MzU1Njk1OSwtMzkxNzI5NTEyLC0xODI3NDgzNjkyLDE5
-NDE4NTYzNzIsNDg5NTU5NzY5LC0xNDUzMjYyNTgxLC05MjAyNz
-QyOTAsMTY1MDAyNTkzNCwtMTk1MTYwODUyNSwtMTY2MTYwMDQ3
-LC03MzIzNzc1MTFdfQ==
+eyJoaXN0b3J5IjpbLTE1MzI3MTk1MzksLTEwNjkyMTY0NjcsMT
+I3NjAwMTAzOCwxODc3OTMyMzczLC0xNjI5MzI0NTgwLDEyODA0
+NzI5NjksMTc2Nzk0NzY5NiwxMDM4MTg1NDkzLDEzNDg5OTU2Mz
+ksLTE5Mjk0ODk1NSwtMTU5MzU1Njk1OSwtMzkxNzI5NTEyLC0x
+ODI3NDgzNjkyLDE5NDE4NTYzNzIsNDg5NTU5NzY5LC0xNDUzMj
+YyNTgxLC05MjAyNzQyOTAsMTY1MDAyNTkzNCwtMTk1MTYwODUy
+NSwtMTY2MTYwMDQ3XX0=
 -->
