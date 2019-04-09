@@ -1,0 +1,31 @@
+.Header {
+    background-color: #101;
+}
+
+.Navbar {
+    list-style-type: none;
+    overflow: hidden;
+    border-radius: 25;
+}
+
+.NavLi {
+    float: right;
+}
+
+.NavLi a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 48px;
+    text-decoration: none;
+    border: 0px solid #101;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.NavLi a:hover {
+    background-color: #CEF;
+    color: #333;
+    border: 0px solid #CEF;
+    border-radius: 25px;
+}

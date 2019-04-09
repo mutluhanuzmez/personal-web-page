@@ -1,6 +1,8 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 
+import Bio from "../components/bio"
+//import PostLink from '../components/PostLink'
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
@@ -21,6 +23,7 @@ class BlogIndex extends React.Component {
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
+            //<PostLink node={node}/>
             <div key={node.fields.slug}>
               <h3
                 style={{

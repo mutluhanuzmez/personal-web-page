@@ -1,67 +1,96 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import { rhythm, scale } from "../utils/typography"
+import { rhythm } from "../utils/typography"
+import "../styles/layout.css"
+
 
 class Layout extends React.Component {
-  render() {
-    const { location, title, children } = this.props
-    const rootPath = `${__PATH_PREFIX__}/`
-    let header
 
-    if (location.pathname === rootPath) {
-      header = (
-        <h1
-          style={{
-            ...scale(1.5),
-            marginBottom: rhythm(1.5),
-            marginTop: 0,
-          }}
-        >
-          <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
-            to={`/`}
-          >
-            {title}
-          </Link>
-        </h1>
-      )
-    } else {
-      header = (
-        <h3
-          style={{
-            fontFamily: `Montserrat, sans-serif`,
-            marginTop: 0,
-          }}
-        >
-          <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
-            to={`/`}
-          >
-            {title}
-          </Link>
-        </h3>
-      )
+  render() {
+    const { title, children } = this.props
+    let header
+    let navItemStyle = {
+      float: "right"
     }
+
+    let titleStyle = {
+      float: 'left',
+      boxShadow: `none`,
+      textDecoration: `none`,
+      color: "#CEF",
+      paddingLeft: rhythm(6 / 3),
+    }
+
+    let labelStyle = {
+      float: 'left',
+      boxShadow: `none`,
+      textDecoration: `none`,
+      color: "#CEF",
+      paddingLeft: rhythm(6 / 3),
+      marginTop: rhythm(2 / 3)
+    }
+
+
+    header = (
+      <div className="Header">
+        <ul className="Navbar" style={{ paddingRight: rhythm(3 / 4) }}>
+          <h1>
+            <Link
+              style={titleStyle}
+              to={`/`}
+            >
+              {title}
+            </Link>
+          </h1>
+          <h3>
+            <i style={labelStyle}>{"Computer Engineering Student"}</i>
+          </h3>
+
+          <li className="NavLi">
+            <Link
+              to={`/contact`}
+            >
+              {"Contact"}
+            </Link>
+          </li>
+          <li className="NavLi">
+            <Link
+              to={`/whoami`}
+            >
+              {"Who Am I?"}
+            </Link>
+          </li>
+          <li className="NavLi">
+            <Link
+              to={`/personalStack`}
+            >
+              {"Personal Stack"}
+            </Link>
+          </li>
+          <li className="NavLi">
+            <Link
+              to={`/`}
+            >
+              {"Blog"}
+            </Link>
+          </li>
+
+        </ul>
+      </div>
+    )
+
     return (
-      <div
-        style={{
-          marginLeft: `auto`,
-          marginRight: `auto`,
-          maxWidth: rhythm(24),
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-        }}
-      >
+      <div>
         <header>{header}</header>
-        <main>{children}</main>
+        <main
+          style={{
+            marginLeft: `auto`,
+            marginRight: `auto`,
+            maxWidth: rhythm(48),
+            padding: `${rhythm(1, 5)} ${rhythm(3 / 4)}`
+          }}
+        >{children}</main>
         <footer>
           {/* © {new Date().getFullYear()}, Built with
           {` `}
@@ -72,4 +101,4 @@ class Layout extends React.Component {
   }
 }
 
-export default Layout
+export default Layout;
