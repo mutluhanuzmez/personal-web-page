@@ -10,9 +10,6 @@ class Layout extends React.Component {
   render() {
     const { title, children } = this.props
     let header
-    let navItemStyle = {
-      float: "right"
-    }
 
     let titleStyle = {
       float: 'left',
@@ -22,30 +19,20 @@ class Layout extends React.Component {
       paddingLeft: rhythm(6 / 3),
     }
 
-    let labelStyle = {
-      float: 'left',
-      boxShadow: `none`,
-      textDecoration: `none`,
-      color: "#CEF",
-      paddingLeft: rhythm(6 / 3),
-      marginTop: rhythm(2 / 3)
-    }
-
-
     header = (
       <div className="Header">
         <ul className="Navbar" style={{ paddingRight: rhythm(3 / 4) }}>
-          <h1>
+          <h2>
             <Link
               style={titleStyle}
               to={`/`}
             >
-              {title}
+              {"Hi, I'm Mutluhan. I am a computer engineering student in ITU."}
             </Link>
-          </h1>
-          <h3>
-            <i style={labelStyle}>{"Computer Engineering Student"}</i>
-          </h3>
+          </h2>
+          {/* <h3>
+            <i style={labelStyle}>{"< programmer >"}</i>
+          </h3> */}
 
           <li className="NavLi">
             <Link
@@ -56,16 +43,16 @@ class Layout extends React.Component {
           </li>
           <li className="NavLi">
             <Link
-              to={`/whoami`}
+              to={`/resume`}
             >
-              {"Who Am I?"}
+              {"Resume"}
             </Link>
           </li>
           <li className="NavLi">
             <Link
-              to={`/personalStack`}
+              to={`/stack`}
             >
-              {"Personal Stack"}
+              {"Stack"}
             </Link>
           </li>
           <li className="NavLi">
@@ -81,7 +68,7 @@ class Layout extends React.Component {
     )
 
     return (
-      <div>
+      <div class = "mainContainer">
         <header>{header}</header>
         <main
           style={{

@@ -1,8 +1,8 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 
-import Bio from "../components/bio"
-//import PostLink from '../components/PostLink'
+
+import PostLink from '../components/postlink/index'
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
@@ -21,26 +21,8 @@ class BlogIndex extends React.Component {
         />
         {/* <Bio /> */}
         {posts.map(({ node }) => {
-          const title = node.frontmatter.title || node.fields.slug
           return (
-            //<PostLink node={node}/>
-            <div key={node.fields.slug}>
-              <h3
-                style={{
-                  marginBottom: rhythm(1 / 4),
-                }}
-              >
-                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
-                  {title}
-                </Link>
-              </h3>
-              <small>{node.frontmatter.date}</small>
-              <p
-                dangerouslySetInnerHTML={{
-                  __html: node.frontmatter.description || node.excerpt,
-                }}
-              />
-            </div>
+            <PostLink node={node} linkTo="stack"/>
           )
         })}
       </Layout>
@@ -57,7 +39,10 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      filter: {fileAbsolutePath: {regex: "/(stack)/"}}
+      ) {
       edges {
         node {
           excerpt
