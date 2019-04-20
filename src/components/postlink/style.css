@@ -2,16 +2,26 @@
     width: 100%;
     padding: 5px;
     margin: 10px;
-    background-color: rgba(50,50,50,0.5);
-    /* border-style: dashed; */
+    border-style: solid;
     border-radius: 10px;
-    /* border-width : 3px;
-    border-color: #CEF; */
+    border-width : 1px;
+    border-color: gray;
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
     /* text-align: center; */
 }
 
+h3{
+    margin: 0;
+    margin-top: 10px;
+    color: black;
+}
+
+p{
+    padding: 0;
+}
+
 .post-description {
-    color: white;
+    color: black;
     width: 85%;
     height: 50%;
     vertical-align: middle;   
@@ -26,6 +36,8 @@
     vertical-align: middle;
     width: 15%;
     height: 100%;
+    opacity: 8;
+    margin: 0;
     /* float: left; */
     display: inline-block;
     border-radius: 5px;

@@ -8,9 +8,18 @@ const Postlink = ({ node, linkTo }) => {
 
   const title = node.frontmatter.title || node.fields.slug
   console.log(title);
+  let img
+  try {
+    img = require('../../../content'+linkTo+ node.fields.slug+'postcover.png')
+  }catch (e) {
+    console.log(e)
+    img = require('../../../content/assets/defaultCover.png')
+  }
+  
+  console.log(img)
   return (
     <div key={node.fields.slug} class="row">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQarXVizXAU2FbadLBuabgg2kOFRCR5Y-V815ScmhFowgE5H-05"
+        <img src={img}
         class="post-image"/>
       <div class="post-description">
 
@@ -18,7 +27,6 @@ const Postlink = ({ node, linkTo }) => {
           <h3
             style={{
               marginBottom: rhythm(1 / 4),
-              color: "#CEF",
             }}
           >
             {title}
