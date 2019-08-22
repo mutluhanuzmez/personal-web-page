@@ -1,7 +1,8 @@
 ---
 title: Paper Summaries for Graduation(EEG)
 date: "2019-04-07T17:50:05+0000"
-description: In this post, there will be explanations of keywords about the subject which is EEG(electroencephalogram) and BCI(brain-computer interface).
+description: In this post, there will be explanations of keywords about the subject which is EEG(electroencephalogram) and BCI(brain-computer interface)./ 1- Multi-kernel extreme learning machine for EEG classification in brain-computer interfaces - 2017/ 2- Deep Learning Human Mind for Automated Visual Classification/ 3- An end-to-end deep learning approach to MI-EEG signal classification for BCIs
+
 ---
 
 In this post, there will be explanations of keywords about the subject which is EEG(electroencephalogram) and BCI(brain-computer interface).

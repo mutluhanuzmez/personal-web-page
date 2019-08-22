@@ -7,12 +7,10 @@ import './style.css'
 const Postlink = ({ node, linkTo }) => {
 
   const title = node.frontmatter.title || node.fields.slug
-  console.log(title);
   let img
   try {
     img = require('../../../content'+linkTo+ node.fields.slug+'postcover.png')
   }catch (e) {
-    console.log(e)
     img = require('../../../content/assets/defaultCover.png')
   }
   

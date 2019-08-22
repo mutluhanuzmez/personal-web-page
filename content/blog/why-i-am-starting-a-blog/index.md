@@ -4,8 +4,6 @@ date: "2019-04-19T21:28:03+00:00"
 description: "Hi Everyone, In this post I will mention about why I am starting a blog. It will be my first blog post and I am hoping that you can find reasons for yourself to starting a blog."
 ---
 
-
-
 Hi Everyone, 
 
 Before starting to my first blog post, I want to start with who I am and I will continue with why I am

@@ -13,6 +13,8 @@ class BlogPostTemplate extends React.Component {
     const { previous, next } = this.props.pageContext
     let precedingPath
     this.props.location.pathname.includes("blog") ? precedingPath = "/blog" : precedingPath = "/stack"
+
+    console.log(post.html);
       
     return (
       <Layout location={this.props.location} title={siteTitle}>
