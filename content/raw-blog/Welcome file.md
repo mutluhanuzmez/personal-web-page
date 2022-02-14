@@ -6,7 +6,7 @@
 ### 1 Şubat sonrası
 - Getir 216
 - GetirMore 270
-- Total 
+- Total 486
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDExODU3NDRdfQ==
+eyJoaXN0b3J5IjpbLTE3NDU1MjU1ODJdfQ==
 -->
